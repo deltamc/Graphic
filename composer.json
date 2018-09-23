@@ -1,0 +1,12 @@
+{
+    "name": "Deltamc/Graphic",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Danila Kashenchev",
+            "email": "biomars@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
