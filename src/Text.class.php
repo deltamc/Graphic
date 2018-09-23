@@ -1,5 +1,5 @@
 <?php
-namespace Deltamc\Graphic;
+namespace deltamc\graphic;
 
 class Text extends Object
 {
